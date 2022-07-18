@@ -1,0 +1,26 @@
+
+.maincon{
+    height: 240px;
+    color: white;
+    text-align: center;
+    width: 40% !important;
+    background-color: #20364a;
+    border-radius: 10px;
+}
+#counter{
+    font-size: 50px;
+}
+#add{
+    margin-left: 20px;
+}
+#reset{
+    margin-left: 20px;
+}
+#substract{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#hr{
+    margin-left: 10px;
+    margin-right: 10px;
+}
